@@ -1,16 +1,16 @@
-## **Gabriel Braga** - Desenvolvedor Mobile e Web
+# **Gabriel Braga** - Desenvolvedor Mobile e Web
 
-**Sobre mim:**
+##Sobre mim:
 
 Sou um desenvolvedor apaixonado por criar soluções inovadoras para dispositivos móveis e web. Busco constantemente aprender e me aprimorar. Atualmente, tenho a honra de representar o Ceará na competição WorldSkills, na categoria Desenvolvimento de Apps, onde demonstro minhas habilidades em todo o ciclo de desenvolvimento de aplicativos, desde o design até a implementação e testes.
 
-**Habilidades:**
+##Habilidades:
 
-* **Desenvolvimento Mobile:** Flutter, React Native
-* **Desenvolvimento Web:** React
-* **Linguagens de programação:** Dart, JavaScript, Python
-* **Banco de dados:** SQL, MySQL
-* **Versionamento de código:** Git
+- **Desenvolvimento Mobile:** Flutter, React Native
+- **Desenvolvimento Web:** React
+- **Linguagens de programação:** Dart, JavaScript, Python
+- **Banco de dados:** SQL, MySQL
+- **Versionamento de código:** Git
 
 
 <!---
